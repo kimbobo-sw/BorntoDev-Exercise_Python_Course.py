@@ -1,13 +1,11 @@
-''''''''''
-x = str(input())  # รับข้อความที่หนึ่งจากผู้ใช้
-y = str(input())    # รับข้อความที่สองจากผู้ใช้
-z = str(input())    # รับข้อความที่สามจากผู้ใช้
 
-# ต่อสตริงเข้าด้วยกัน โดยเพิ่มเว้นวรรคระหว่างข้อความ x และ z ด้วยวิธีการ + " "
-result = x + " " + z + " " + y
-print( result)
-'''''''''''
+fe = input()
+gb = input()
+ics = input()
+cp = input()
 
-Username ="20"
-
-print (Username + 10)
+print("---Your Score---")
+print("Foundation English: ",fe)
+print("General Business: ",gb)
+print("Introduction to Computer Systems: ",ics)
+print("Computer Programming: ",cp)
