@@ -21,10 +21,6 @@ def leftClickButton(event):
 
 
 
-
-
-
-
 MainWindow = Tk()
 
 lableHeight = Label(MainWindow, text = "ส่วนสูง (Cm.)")
